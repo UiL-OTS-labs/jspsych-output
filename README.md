@@ -46,7 +46,7 @@ There are 3 variables listed:
 2. **rt**
 3. **stimulus**
 
-So for the html-keyboard-response-plugin, in addition 4 variables above, the
+So for the html-keyboard-response-plugin, in addition to the 4 variables above, the
 **key_press**, **rt** and **stimulus** are stored in the output. As you can see,
 the type and meaning of the variable are also listed in the table.
 
