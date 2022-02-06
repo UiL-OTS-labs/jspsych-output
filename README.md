@@ -79,6 +79,6 @@ Different experiments need different output. The UiL OTS Self Paced Reading
 whereas the lexical decision (LD) templates only record one.
 You'll have to look this up in the documentation of each boilerplate.
 
-[1]:<https://www.jspsych.org/7.1/plugins/data-collected-by-plugins>
+[1]:<https://www.jspsych.org/7.1/overview/plugins/#data-collected-by-all-plugins>
 [2]:<https://www.jspsych.org/7.1/plugins/list-of-plugins/>
 
