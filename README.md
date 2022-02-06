@@ -31,7 +31,7 @@ Information can be obtained from the [data-collected-from-plugins][1] section in
 jsPsych documentation. The most significant variable is the first, **trial_type**
 because that determines where you can look for the meaning of the other variables of
 the same jsPsych trial. For example, in a visual lexical decision task with a visual
-prime, a trials starts with a fixation cross, then a prime and then a (non-)word
+prime, a trial starts with a fixation cross, then a prime and then a (non-)word
 again. In terms of jsPscych those are 3 trials. the cross, the prime and the
 (non-)word. They are all presented with the same plugin called:
 *html-keyboard-response*. In order to see the meaning of the other variables
