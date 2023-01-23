@@ -42,7 +42,7 @@ look for the paragraph *Data Generated*. In the panel on the right hand side
 of the web page you can find a link to the section.
 There are 3 variables listed:
 
-1. **key_press**
+1. **response**
 2. **rt**
 3. **stimulus**
 
